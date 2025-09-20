@@ -17,7 +17,7 @@
 - **Excel** (for initial data preparation)
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](image.png)
 
 ---
 
